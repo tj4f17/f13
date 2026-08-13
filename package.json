@@ -1,0 +1,9 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/voice": "^0.16.1",
+    "discord.js": "^14.14.1"
+  }
+}
